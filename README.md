@@ -8,7 +8,7 @@
 
 *Click on the image above to watch our step-by-step demo video.*
 
----
+---   .
 
 This repository contains a Go program that sends data over a ZeroMQ socket to test a verification layer. The program (`sample.go`) is designed to send Zero-Knowledge (ZK) proofs or any data you specify to a specified endpoint. Shell scripts are included to streamline the building and running processes.
 
